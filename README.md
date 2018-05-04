@@ -1,2 +1,8 @@
-# eth
-About ethereum, smart contract and blockchain.
+---
+description: 以太坊、智能合约和区块链
+---
+
+# 以太坊技术笔记
+
+有关以太坊、智能合约和区块链的学习笔记和心得分享。
+
